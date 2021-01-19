@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola rama master
+=======
+Hola rama dev 2
+>>>>>>> dev
